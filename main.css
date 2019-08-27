@@ -55,7 +55,7 @@ nav {
     color: white;
     margin-left: 190px;
     width: 40%;
-    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
 
 }
 
@@ -157,25 +157,26 @@ span:hover {
     height: 857px;
     background-size: cover;
     color: black;
-    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: 400;
-    
-    
+
+
 
 
 }
-.lines0{
+
+.lines0 {
     background-color: black;
-    height:1px;
-    width:600px;
+    height: 1px;
+    width: 600px;
 }
 
 .h1SecondBox {
     position: absolute;
     width: 1000px;
-    height:50px;
-    right:24%;
-    top:98%;
+    height: 50px;
+    right: 24%;
+    top: 98%;
     font-weight: 100;
     font-size: 38px;
 }
@@ -185,7 +186,7 @@ span:hover {
     float: left;
     margin-left: -460px;
     margin-top: -30px;
-    
+
 
 
 }
@@ -194,12 +195,13 @@ span:hover {
     position: relative;
     right: 1%;
     top: 19%;
-    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-weight: 400;
-    
+
 }
-#secondBoxP h1{
-    font-weight:200;
+
+#secondBoxP h1 {
+    font-weight: 200;
 }
 
 #thirdBox {
@@ -218,7 +220,7 @@ span:hover {
     font-size: 30px;
     width: 100%;
     height: 20px;
-    font-weight:200;
+    font-weight: 200;
 }
 
 .box3Left {
@@ -226,14 +228,14 @@ span:hover {
     height: 80%;
     top: 20%;
     right: 20%;
-    font-weight:200;
+    font-weight: 200;
 }
 
 #box3Title1 {
     position: relative;
     top: 1%;
     right: 2%;
-    font-weight:200;
+    font-weight: 200;
 
 }
 
@@ -241,7 +243,7 @@ span:hover {
     position: relative;
     top: 2%;
     right: 2%;
-    font-weight:200;
+    font-weight: 200;
 }
 
 #box3Title2 {
@@ -254,7 +256,7 @@ span:hover {
     position: relative;
     top: 1%;
     right: 2%;
-    font-weight:200;
+    font-weight: 200;
 
 }
 
@@ -262,7 +264,7 @@ span:hover {
     position: relative;
     top: 2%;
     right: 2%;
-    font-weight:200;
+    font-weight: 200;
 
 }
 
@@ -270,7 +272,7 @@ span:hover {
     position: relative;
     top: 2%;
     right: 2%;
-    font-weight:200;
+    font-weight: 200;
 
 }
 
@@ -278,14 +280,14 @@ span:hover {
     position: relative;
     top: 4%;
     right: 2%;
-    font-weight:200;
+    font-weight: 200;
 }
 
 #box3Paragraph4 {
     position: relative;
     top: 3%;
     right: 2%;
-    font-weight:200;
+    font-weight: 200;
 
 }
 
@@ -293,7 +295,7 @@ span:hover {
     position: relative;
     top: 3%;
     right: 2%;
-    font-weight:200;
+    font-weight: 200;
 
 
 }
@@ -302,7 +304,7 @@ span:hover {
     position: relative;
     top: 3%;
     right: 2%;
-    font-weight:200;
+    font-weight: 200;
 }
 
 #box3Pic {
@@ -310,7 +312,7 @@ span:hover {
     height: 80%;
     top: 20%;
     width: 800px;
-    
+
 }
 
 #box3Pic img {
@@ -343,7 +345,7 @@ span:hover {
     top: 4%;
     left: 39%;
     height: 20px;
-    font-weight:200;
+    font-weight: 200;
 }
 
 #box4Title1 {
@@ -351,7 +353,7 @@ span:hover {
     top: 25%;
     left: 150%;
     width: 600px;
-    font-weight:200;
+    font-weight: 200;
 }
 
 #box4Paragraph1 {
@@ -359,7 +361,7 @@ span:hover {
     top: 25%;
     left: 150%;
     width: 600px;
-    font-weight:200;
+    font-weight: 200;
 }
 
 #box4Title2 {
@@ -367,7 +369,7 @@ span:hover {
     top: 25%;
     left: 150%;
     width: 600px;
-    font-weight:200;
+    font-weight: 200;
 }
 
 #box4Paragraph2 {
@@ -375,7 +377,7 @@ span:hover {
     top: 25%;
     left: 150%;
     width: 600px;
-    font-weight:200;
+    font-weight: 200;
 
 }
 
@@ -384,7 +386,7 @@ span:hover {
     top: 25%;
     left: 150%;
     width: 600px;
-    font-weight:200;
+    font-weight: 200;
 
 }
 
@@ -393,7 +395,7 @@ span:hover {
     top: 25%;
     left: 150%;
     width: 600px;
-    font-weight:200;
+    font-weight: 200;
 }
 
 .lines2 {
@@ -403,7 +405,7 @@ span:hover {
     width: 600px;
     height: 1px;
     background-color: rgba(250, 250, 250, 0.3);
-    font-weight:200;
+    font-weight: 200;
 
 }
 
@@ -417,7 +419,7 @@ span:hover {
     color: black;
     justify-content: center;
     text-align: center;
-    font-weight:200;
+    font-weight: 200;
 
 }
 
@@ -429,9 +431,9 @@ span:hover {
     right: 40%;
     background-color: #0265d6;
     color: white;
-    height:60px;
-    width:300px;
-    font-weight:200;
+    height: 60px;
+    width: 300px;
+    font-weight: 200;
 }
 
 #secondButton:hover {
@@ -447,15 +449,14 @@ span:hover {
     font-size: 16 px;
     top: 60%;
     right: 23%;
-    height:150px;
+    height: 150px;
 }
 
 #topLineBox5 {
     position: relative;
     top: 20%;
     left: 18%;
-    height:200px
-
+    height: 200px
 }
 
 .lines {
@@ -482,55 +483,60 @@ span:hover {
     background-color: #024086;
     color: rgba(250, 250, 250, 0.7);
     border-color: #024086;
-    width:250px;
+    width: 250px;
 }
+
 .lines6 {
     position: relative;
     height: 20px;
     background-color: rgba(250, 250, 250, 0.3);
     margin: 5px;
     top: 2%;
-    width:1px;
+    width: 1px;
 }
 
-#bottomNav{
+#bottomNav {
     position: relative;
     display: flex;
     height: 60px;
     width: 100%;
     align-items: center;
-    left:25%;
-    top:55%;
-    font-size:15px; 
+    left: 25%;
+    top: 55%;
+    font-size: 15px;
 }
-#box6p{
+
+#box6p {
     position: relative;
-    height:100px;
-    width:100%;
-    top:35%;
-    right:4%;
+    height: 100px;
+    width: 100%;
+    top: 35%;
+    right: 4%;
     color: rgba(250, 250, 250, 0.3);
-    font-size:12px;
-   
+    font-size: 12px;
+
 }
-#box6P1{
+
+#box6P1 {
     position: relative;
-    top:39%;
-    right:-8%;
+    top: 39%;
+    right: -8%;
 }
-#box6P2{
+
+#box6P2 {
     position: relative;
-    top:30%;
-    right:-6%;
+    top: 30%;
+    right: -6%;
 }
-#bottomNav2{
+
+#bottomNav2 {
     position: relative;
     display: flex;
     height: 60px;
     width: 100%;
     align-items: center;
-    right:31%;
-    top:65%;
+    right: 31%;
+    top: 65%;
     font-size: 12px;
 }
 

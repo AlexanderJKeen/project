@@ -55,6 +55,7 @@ nav {
     color: white;
     margin-left: 190px;
     width: 40%;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
 
 }
 
@@ -156,6 +157,8 @@ span:hover {
     height: 857px;
     background-size: cover;
     color: black;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-weight: 400;
     
     
 
@@ -171,8 +174,10 @@ span:hover {
     position: absolute;
     width: 1000px;
     height:50px;
-    right:26%;
-    top:105%;
+    right:24%;
+    top:98%;
+    font-weight: 100;
+    font-size: 38px;
 }
 
 .boxGirl {
@@ -187,8 +192,14 @@ span:hover {
 
 #secondBoxP {
     position: relative;
-    right: 10%;
+    right: 1%;
     top: 19%;
+    font-family: "Open Sans",Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    
+}
+#secondBoxP h1{
+    font-weight:200;
 }
 
 #thirdBox {
@@ -207,6 +218,7 @@ span:hover {
     font-size: 30px;
     width: 100%;
     height: 20px;
+    font-weight:200;
 }
 
 .box3Left {
@@ -214,12 +226,14 @@ span:hover {
     height: 80%;
     top: 20%;
     right: 20%;
+    font-weight:200;
 }
 
 #box3Title1 {
     position: relative;
     top: 1%;
     right: 2%;
+    font-weight:200;
 
 }
 
@@ -227,6 +241,7 @@ span:hover {
     position: relative;
     top: 2%;
     right: 2%;
+    font-weight:200;
 }
 
 #box3Title2 {
@@ -239,6 +254,7 @@ span:hover {
     position: relative;
     top: 1%;
     right: 2%;
+    font-weight:200;
 
 }
 
@@ -246,6 +262,7 @@ span:hover {
     position: relative;
     top: 2%;
     right: 2%;
+    font-weight:200;
 
 }
 
@@ -253,6 +270,7 @@ span:hover {
     position: relative;
     top: 2%;
     right: 2%;
+    font-weight:200;
 
 }
 
@@ -260,12 +278,14 @@ span:hover {
     position: relative;
     top: 4%;
     right: 2%;
+    font-weight:200;
 }
 
 #box3Paragraph4 {
     position: relative;
     top: 3%;
     right: 2%;
+    font-weight:200;
 
 }
 
@@ -273,6 +293,7 @@ span:hover {
     position: relative;
     top: 3%;
     right: 2%;
+    font-weight:200;
 
 
 }
@@ -281,6 +302,7 @@ span:hover {
     position: relative;
     top: 3%;
     right: 2%;
+    font-weight:200;
 }
 
 #box3Pic {
@@ -288,6 +310,7 @@ span:hover {
     height: 80%;
     top: 20%;
     width: 800px;
+    
 }
 
 #box3Pic img {
@@ -311,7 +334,7 @@ span:hover {
     position: relative;
     height: 80%;
     top: 0%;
-    right: 20%;
+    right: 14%;
 
 }
 
@@ -320,6 +343,7 @@ span:hover {
     top: 4%;
     left: 39%;
     height: 20px;
+    font-weight:200;
 }
 
 #box4Title1 {
@@ -327,6 +351,7 @@ span:hover {
     top: 25%;
     left: 150%;
     width: 600px;
+    font-weight:200;
 }
 
 #box4Paragraph1 {
@@ -334,6 +359,7 @@ span:hover {
     top: 25%;
     left: 150%;
     width: 600px;
+    font-weight:200;
 }
 
 #box4Title2 {
@@ -341,6 +367,7 @@ span:hover {
     top: 25%;
     left: 150%;
     width: 600px;
+    font-weight:200;
 }
 
 #box4Paragraph2 {
@@ -348,6 +375,7 @@ span:hover {
     top: 25%;
     left: 150%;
     width: 600px;
+    font-weight:200;
 
 }
 
@@ -356,6 +384,7 @@ span:hover {
     top: 25%;
     left: 150%;
     width: 600px;
+    font-weight:200;
 
 }
 
@@ -364,6 +393,7 @@ span:hover {
     top: 25%;
     left: 150%;
     width: 600px;
+    font-weight:200;
 }
 
 .lines2 {
@@ -373,6 +403,7 @@ span:hover {
     width: 600px;
     height: 1px;
     background-color: rgba(250, 250, 250, 0.3);
+    font-weight:200;
 
 }
 
@@ -386,6 +417,7 @@ span:hover {
     color: black;
     justify-content: center;
     text-align: center;
+    font-weight:200;
 
 }
 
@@ -393,10 +425,13 @@ span:hover {
     position: relative;
     font-size: 20px;
     bottom: 10%;
-    top: 45%;
-    right: 80%;
+    top: 40%;
+    right: 40%;
     background-color: #0265d6;
     color: white;
+    height:60px;
+    width:300px;
+    font-weight:200;
 }
 
 #secondButton:hover {
@@ -407,17 +442,19 @@ span:hover {
 #windowsDownload {
     position: relative;
     display: inline-block;
-    width: 300px;
+    width: 350px;
     color: #00aeff;
     font-size: 16 px;
     top: 60%;
     right: 23%;
+    height:150px;
 }
 
 #topLineBox5 {
     position: relative;
     top: 20%;
-    left: 10%;
+    left: 18%;
+    height:200px
 
 }
 
@@ -445,7 +482,58 @@ span:hover {
     background-color: #024086;
     color: rgba(250, 250, 250, 0.7);
     border-color: #024086;
+    width:250px;
 }
+.lines6 {
+    position: relative;
+    height: 20px;
+    background-color: rgba(250, 250, 250, 0.3);
+    margin: 5px;
+    top: 2%;
+    width:1px;
+}
+
+#bottomNav{
+    position: relative;
+    display: flex;
+    height: 60px;
+    width: 100%;
+    align-items: center;
+    left:25%;
+    top:55%;
+    font-size:15px; 
+}
+#box6p{
+    position: relative;
+    height:100px;
+    width:100%;
+    top:35%;
+    right:4%;
+    color: rgba(250, 250, 250, 0.3);
+    font-size:12px;
+   
+}
+#box6P1{
+    position: relative;
+    top:39%;
+    right:-8%;
+}
+#box6P2{
+    position: relative;
+    top:30%;
+    right:-6%;
+}
+#bottomNav2{
+    position: relative;
+    display: flex;
+    height: 60px;
+    width: 100%;
+    align-items: center;
+    right:31%;
+    top:65%;
+    font-size: 12px;
+}
+
 
 @media (max-width: 400px) {
     #secondBox {
